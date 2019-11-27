@@ -1,17 +1,9 @@
-title: 'hunterwarbs.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/hunterthoughts"
+title: 'huntersthoughts'
+description: "A place for my thoughts."
+baseurl: "/"
 url: "https://hunterwarbs.github.io"
 
-header_pages:
-  - index.md
-  - peter.md
-  - about.md
-  - contact.md
-
 style: dark
-
-footer: 'check out my <a href="https://instagram.com/hunterwarbs">photos</a>'
 
 # Build settings
 markdown: kramdown
