@@ -3,6 +3,9 @@ description: "A place for my thoughts."
 baseurl: "/"
 url: "https://hunterwarbs.github.io"
 
+header_pages:
+  - index.md
+
 style: dark
 
 # Build settings
