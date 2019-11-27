@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Hey
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+These are my thoughts.
